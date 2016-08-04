@@ -11,10 +11,7 @@ All discovered devices are set to remain in history for **30 days**.
 Make sure the SNMP community key is correctly configured in your Macros to allow Zabbix to talk to SNMPv2 Devices.  
 Device Serial Number and Device Model Name under template items, not item prototypes, should both be disabled and only used when lower level discovery fails for some reason.   
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Getting a Local Copy
+## Getting a Local Copy
 Download the .xml file by clicking the raw button in the top right corner. 
 
 ## Built for Use With
