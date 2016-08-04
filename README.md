@@ -18,7 +18,7 @@ Download the .xml file by clicking the raw button in the top right corner.
 Zabbix 3.0
 
 ## Contributing
-JJMartres seems to have discontinued the merging of pull requests circa 2 years ago. Still worth trying though. 
+JJMartres seems to have discontinued the merging of pull requests circa 3 years ago. Still worth trying though. 
 
 ## Authors
 
