@@ -1003,12 +1003,6 @@
                     <host_prototypes/>
                 </discovery_rule>
             </discovery_rules>
-            <macros>
-                <macro>
-                    <macro>{$SNMP_COMMUNITY}</macro>
-                    <value>4mrS_2sZ</value>
-                </macro>
-            </macros>
             <templates/>
             <screens/>
         </template>
